@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestList>
+	<data a="10" b="2" expected="5"/>
+	<data a="6" b="3" expected="2"/>
+	<data a="6" b="6" expected="1"/>
+	<data a="0" b="5" expected="0"/>
+</TestList>
